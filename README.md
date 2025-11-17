@@ -1,14 +1,14 @@
-#  🔔 Immo Eliza – Real Estate Data Cleaning & Analysis
+# Description
 
-<img src="images/banner.png" width="100%" />
-
-This project analyzes Belgian real estate data scraped from the Immo Eliza platform.
+This project analyzes Belgian real estate data sourced from **[ImmoVlan](https://immovlan.be/en)**.
 
 The goal is to clean, structure, and explore the dataset to uncover market trends, identify price drivers, and prepare the data for future predictive modeling.
 
 # Project Overview
 
-<img src="images/overview.png" width="70%" />
+<p align="left">
+  <img src="output/project-view.png" width="30%" alt="Project Overview">
+</p>
 
 The project covers:
 
