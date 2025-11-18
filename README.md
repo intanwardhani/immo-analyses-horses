@@ -1,4 +1,4 @@
-# Description
+# Description 📊
 
 This project analyzes Belgian real estate data sourced from **[ImmoVlan](https://immovlan.be/en)**.
 
@@ -17,8 +17,6 @@ The goal is to clean, structure, and explore the dataset to uncover market trend
 - [How to Run](#how-to-run)
 
 # Project Overview
-
-<img src="images/overview.png" width="70%" />
 
 The project covers:
 
@@ -58,7 +56,6 @@ The cleaned dataset contains:
   - Price per square meter
 
 # Cleaning Pipeline
-<img src="images/cleaning.png" width="70%" />
 
 ### Key steps:
 
@@ -92,8 +89,6 @@ Applied to:
 
 # Exploratory Data Analysis
 
-<img src="images/eda.png" width="70%" />
-
 Full EDA includes:
 
 - Distribution of prices & living areas
@@ -123,8 +118,8 @@ IMMO_EELIZA_TEAM_HORSES_ANALYSIS/
 │   └── cleaned/
 │
 ├── analysis/
-│   └── analysis.ipynb
-│
+│   └── Hamideh
+│             └──analysis.ipynb
 ├── output/
 │   ├── images.png
 │   ├── overview.png
